@@ -13,5 +13,6 @@
 - `df_company.csv` — данные о компаниях (названия, ИНН, ОГРН).
 - `df_license.csv` — данные о лицензиях операторов связи.
 - `df_license_region.csv` — данные о регионах действия лицензи. 
-  
-🔗 [Открыть дашборд](https://public.tableau.com/app/profile/https://public.tableau.com/views/Operators_17457844684650/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+
+## Визуализация Tableau  
+🔗 [Открыть дашборд](https://public.tableau.com/views/Operators_17457844684650/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
